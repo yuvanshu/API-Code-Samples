@@ -16,6 +16,7 @@ from menus import Menus
 
 
 class AWhereAPI(object):
+    
     def __init__(self, api_key, api_secret):
         """
         Initializes the AWhereAPI class, which is used to perform HTTP requests 
